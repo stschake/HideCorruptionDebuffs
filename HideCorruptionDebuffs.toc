@@ -1,0 +1,5 @@
+## Interface: 80300
+## Title: HideCorruptionDebuffs
+## Notes: Hides all debuffs from corruption on default Unitframes
+## Version: 1.0.0 (v201910250600)
+core.lua
